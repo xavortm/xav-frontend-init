@@ -11,4 +11,6 @@
 // Always required
 @import "properties";
 
+// Include only the animations you need, so you dont waster space on the 
+// master css file.
 @import '_flippers/flip'
